@@ -1,1 +1,11 @@
-# Projeto_LC_Poo
+# Trabalho de POO tema: Banco
+
+Nome integrantes:
+
+Bárbara Ferreira dos Santos
+João Augusto 
+João Santos
+Gustavo Henrique de Matos
+Gustavo Maruta 
+
+Link Diagrama: https://app.diagrams.net/#G1eM5ACoraf45uMe3oMsqIwXt5sJk6Z9Fi
